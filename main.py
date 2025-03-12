@@ -32,7 +32,7 @@ from fake_useragent import UserAgent  # استيراد UserAgent من fake_usera
 URL = "http://slawat.net"
 
 # عدد الطلبات المتزامنة
-CONCURRENT_REQUESTS = 80000
+CONCURRENT_REQUESTS = 8000
 
 # متغيرات لتتبع عدد الطلبات والأداء
 request_count = 0

